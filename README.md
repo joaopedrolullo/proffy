@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+   <img src="https://github.com/joaopedrolullo/proffy/assets/14797386/4cb0c647-9edd-4dac-b64b-b8afd53391f8" alt="Proffy" width="280"/>
 </p>
 
 > :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat
@@ -12,16 +12,16 @@
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="./.github/web-landing.png" width="400px">
-   <img src="./.github/web-list.png" width="400px">
+   <img src="https://github.com/joaopedrolullo/proffy/assets/14797386/9620fb9d-4518-47c0-8333-1942d98ad0be" width="400px">
+   <img src="https://github.com/joaopedrolullo/proffy/assets/14797386/e41bd63a-6d18-4c80-b257-047044c145b6" width="400px">
 </div>
 
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
-   <img src="./.github/mobile-splash.png" width="180">
-   <img src="./.github/mobile-onboarding.png" width="180">
-   <img src="./.github/mobile-home.png" width="180">
-   <img src="./.github/mobile-favoritos.png" width="180">
+   <img src="https://github.com/joaopedrolullo/proffy/assets/14797386/ac156301-38d5-4d18-81dc-ed3d379a1ac0" width="180">
+   <img src="https://github.com/joaopedrolullo/proffy/assets/14797386/13463a98-2aca-4a7b-a4db-dba6d4775a07" width="180">
+   <img src="https://github.com/joaopedrolullo/proffy/assets/14797386/40b156d1-203f-482d-b300-515d6addfd5f" width="180">
+   <img src="https://github.com/joaopedrolullo/proffy/assets/14797386/1a39bba4-53e2-4121-95d7-86fe4ae3c2fe" width="180">
 </div>
 
 # :computer: Tecnologias
