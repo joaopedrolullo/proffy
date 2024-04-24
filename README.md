@@ -2,7 +2,7 @@
    <img src="https://github.com/joaopedrolullo/proffy/assets/14797386/4cb0c647-9edd-4dac-b64b-b8afd53391f8" alt="Proffy" width="280"/>
 </p>
 
-> :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat
+> :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 [@Rocketseat](https://rocketseat.com.br/).
 
 # :pushpin: Tabela de Conteúdo
 
