@@ -43,7 +43,7 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # :construction_worker: Como rodar
 ```bash
 # Clone o Repositoria
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
+$ git clone https://github.com/joaopedrolullo/proffy.git
 ```
 ### 📦 Rode a API
 
